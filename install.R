@@ -1,0 +1,6 @@
+install.packages('shiny')
+install.packages('googlesheets')
+install.packages('emojifont')
+install.packages('cowplot')
+install.packages('gridExtra')
+install.packages('shinyjqui')
